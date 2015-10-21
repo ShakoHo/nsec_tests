@@ -2,7 +2,7 @@
   "version": "1.0",
   "name": "NSec_Tests",
   "description": "Nsec Tests",
-  "launch_path": "/nsec_tests/index.html",
+  "launch_path": "/nsec_tests/nsec_tests/cookie_client_side.html",
   "developer": {
     "name": "The Gaia Team",
     "url": "https://github.com/mozilla-b2g/gaia"
@@ -22,48 +22,48 @@
   },
   "locales": {
     "ar": {
-      "name": "Record",
-      "description": "Web app Record"
+      "name": "NsecTests",
+      "description": "Web app NsecTests"
     },
     "de": {
-      "name": "Record",
-      "description": "Web app Record"
+      "name": "NsecTests",
+      "description": "Web app NsecTests"
     },
     "el": {
-      "name": "Record",
-      "description": "Web app Record"
+      "name": "NsecTests",
+      "description": "Web app NsecTests"
     },
     "en-US": {
-      "name": "Record",
-      "description": "Web app Record"
+      "name": "NsecTests",
+      "description": "Web app NsecTests"
     },
     "es": {
-      "name": "Record",
-      "description": "Web app Record"
+      "name": "NsecTests",
+      "description": "Web app NsecTests"
     },
     "fr": {
-      "name": "Record",
-      "description": "Web app Record"
+      "name": "NsecTests",
+      "description": "Web app NsecTests"
     },
     "it": {
-      "name": "Record",
-      "description": "Web app Record"
+      "name": "NsecTests",
+      "description": "Web app NsecTests"
     },
     "pt-BR": {
-      "name": "Record",
-      "description": "Web app Record"
+      "name": "NsecTests",
+      "description": "Web app NsecTests"
     },
     "ru": {
-      "name": "Record",
-      "description": "Web app Record"
+      "name": "NsecTests",
+      "description": "Web app NsecTests"
     },
     "tr": {
-      "name": "Record",
-      "description": "Web app Record"
+      "name": "NsecTests",
+      "description": "Web app NsecTests"
     },
     "zh-TW": {
-      "name": "Record",
-      "description": "Web app Record"
+      "name": "NsecTests",
+      "description": "Web app NsecTests"
     }
   },
   "default_locale": "en-US",
